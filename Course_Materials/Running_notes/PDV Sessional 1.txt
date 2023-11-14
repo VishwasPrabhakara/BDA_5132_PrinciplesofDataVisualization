@@ -1,0 +1,14 @@
+PDV 
+
+unit 1:
+
+html
+regEx
+about scraping(assignment, paper)
+2 types of scraping- BS, Scrapy
+Diff types of Parser
+Scrapy Architecture, framework, folders
+diff bw scrapy and BS
+how to avoid getting banned
+
+Go through the code cells
